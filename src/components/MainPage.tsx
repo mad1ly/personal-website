@@ -429,7 +429,7 @@ export default function MainPage() {
                   rel="noreferrer noopener"
                   className="border-2 flex items-center justify-center  bg-stone-800 border-stone-800 rounded-3xl mt-3 md:mt-0 p-3 font-semibold w-full md:w-60 hover:bg-black text-white transition-colors duration-300 ease-in-out"
                 >
-                  Get to Know
+                  {t("get-to-know")}
                 </a>
               </div>
             </div>
@@ -470,7 +470,7 @@ export default function MainPage() {
                   rel="noreferrer noopener"
                   className="border-2 flex items-center justify-center  bg-stone-800 border-stone-800 rounded-3xl mt-3 md:mt-0 p-3 font-semibold w-full md:w-60 hover:bg-black text-white transition-colors duration-300 ease-in-out"
                 >
-                  Get to Know
+                  {t("get-to-know")}
                 </a>
               </div>
             </div>
@@ -514,7 +514,7 @@ export default function MainPage() {
                   rel="noreferrer noopener"
                   className="border-2 flex items-center justify-center  bg-stone-800 border-stone-800 rounded-3xl mt-3 md:mt-0 p-3 font-semibold w-full md:w-60 hover:bg-black text-white transition-colors duration-300 ease-in-out"
                 >
-                  Get to Know
+                  {t("get-to-know")}
                 </a>
               </div>
             </div>
